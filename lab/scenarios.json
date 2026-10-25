@@ -1,0 +1,39 @@
+{
+  "track": "Angular Conduit",
+  "upstream": "https://github.com/realworld-apps/angular-realworld-example-app",
+  "upstream_commit": "dd99ed2cf39c805d719f943c5d7061a5683d98a8",
+  "hosted_url": null,
+  "contextqa_run_verified": false,
+  "scenarios": [
+    {
+      "id": "testing-lab-angular-conduit-01",
+      "title": "Authentication",
+      "assertion": "A new synthetic user can sign up and sign in; invalid credentials are rejected.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "testing-lab-angular-conduit-02",
+      "title": "Article creation",
+      "assertion": "The published title and body match the entered values.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "testing-lab-angular-conduit-03",
+      "title": "Article ownership",
+      "assertion": "Only the author can modify their article.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "testing-lab-angular-conduit-04",
+      "title": "Comment and favorite",
+      "assertion": "The comment persists after reload and the favorite appears on the profile.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "testing-lab-angular-conduit-05",
+      "title": "Pagination",
+      "assertion": "Known fixture articles appear on the correct pages without duplication.",
+      "status": "exercise-not-executed"
+    }
+  ]
+}

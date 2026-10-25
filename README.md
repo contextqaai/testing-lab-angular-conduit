@@ -1,3 +1,13 @@
+# ContextQA Testing Lab — Angular Conduit
+
+Public educational source fork. **[Start the lab →](lab/README.md)** · [Scenario checklist](lab/scenarios.json) · [Central learning hub](https://github.com/contextqaai/testing-lab)
+
+Hosted full-stack sessions and recorded ContextQA results are being prepared. No ContextQA run result is claimed by this repository.
+
+Original project: [realworld-apps/angular-realworld-example-app](https://github.com/realworld-apps/angular-realworld-example-app). Original attribution and license remain below and in the repository. ContextQA lab materials are additions; upstream authors do not endorse them.
+
+## Upstream project documentation
+
 # ![Angular Example App](logo.png)
 
 > ### Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://realworld.show) spec and API.
