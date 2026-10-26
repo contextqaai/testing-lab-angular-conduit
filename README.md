@@ -1,3 +1,5 @@
+<a href="https://contextqaai.github.io/testing-lab/"><img src="lab/assets/contextqa-logo.svg" alt="ContextQA" width="200"></a>
+
 # ContextQA Testing Lab — Angular Conduit
 
 Public educational source fork. **[Start the lab →](lab/README.md)** · [Scenario checklist](lab/scenarios.json) · [Central learning hub](https://github.com/contextqaai/testing-lab)
@@ -81,3 +83,9 @@ RealWorld Angular](https://github.com/realworld-angular) organization that is sp
 
 - **Project code**: [MIT License](LICENSE)
 - **Angular logo**: The Angular logo is a trademark of Google LLC, used to indicate this project is built with Angular.
+
+## ContextQA learning resources
+
+[Public learning hub](https://contextqaai.github.io/testing-lab/) · [Stack/platform setup](https://github.com/contextqaai/testing-lab/blob/main/PLATFORMS.md) · [Report or reproduce an issue](https://github.com/contextqaai/testing-lab-angular-conduit/issues)
+
+This is an educational learning resource. Original source, licenses and credits remain intact. Public report links appear only after actual execution; recorded evidence is labeled separately from a fresh run.
